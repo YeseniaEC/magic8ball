@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+  background-image: url(../img/sky.jpg);
+  margin-top: 5%;
+  font-family: 'Lobster' , cursive;
+  font-weight: bolder;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.border-box {
+  box-sizing: border-box;
+}
+.question-box{
+  width: 650px;
+  height: auto;
+  background-color: transparent;
+  margin: 0 auto;
+}
+h1, h4 {
+  color: white;
+}
+h1{
+  font-size: 39px;
+}
+.picture {
+  height: 500px;
+  margin: 0 auto;
+}
+form, button {
+  margin: 10px 0px;
+}
+.form-style {
+  width: 400px;
+
+}
+button {
+  color: black;
+  border-radius: 20px;
+
+}
